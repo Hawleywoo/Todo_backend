@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  description: MyText
+  complete: MyString
+  due_date: 2020-07-28
+  latitude: 9.99
+  longtitude: 9.99
+
+two:
+  title: MyString
+  description: MyText
+  complete: MyString
+  due_date: 2020-07-28
+  latitude: 9.99
+  longtitude: 9.99
